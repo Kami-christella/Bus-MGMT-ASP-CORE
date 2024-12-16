@@ -1,0 +1,36 @@
+﻿@page
+@model ChrisHealthCare.Pages.Drivers.IndexModel
+@{
+}
+
+<br />
+<h2>List Of Drivers</h2>
+<a class="btn btn-primary btn-sm" href="/Drivers/Create">New Driver</a>
+<a class="btn btn-secondary btn-sm" href="javascript:window.print()">Print</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Driver ID</th>
+            <th>Name</th>
+            <th>Licence</th>
+            <th>Email</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ListDrivers)
+        {
+            <tr>
+                <td>@item.driverId</td>   
+                <td>@item.Name</td>
+                <td>@item.Licence</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Drivers/Edit?driverId=@item.driverId">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Drivers/Delete?driverId=@item.driverId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

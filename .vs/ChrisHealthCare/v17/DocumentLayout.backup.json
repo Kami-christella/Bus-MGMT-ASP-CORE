@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\drivers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\drivers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|c:\\users\\kami\\source\\repos\\chrishealthcare\\chrishealthcare\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9941A7A-8AE5-4D25-9259-40CE4F762569}|ChrisHealthCare\\ChrisHealthCare.csproj|solutionrelative:chrishealthcare\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:33:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Program.cs",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Program.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Program.cs",
+              "RelativeToolTip": "ChrisHealthCare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:12:37.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Drivers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Drivers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Drivers\\Index.cshtml",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Drivers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:04:19.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml.cs",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:44:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Drivers\\Edit.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:43:16.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:47:29.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:18:25.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:32:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:17:26.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChrisHealthCare\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\ChrisHealthCare\\ChrisHealthCare\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ChrisHealthCare\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T10:05:38.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

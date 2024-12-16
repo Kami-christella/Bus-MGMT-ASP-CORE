@@ -1,0 +1,67 @@
+﻿@page
+@model ChrisHealthCare.Pages.Drivers.DeleteModel
+@{
+}
+
+<br />
+<h2>Delete Driver</h2>
+@if (Model.ErrorMessage.Length > 0)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@Model.ErrorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+    </div>
+}
+@if (Model.SuccessMessage.Length > 0)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@Model.SuccessMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+    </div>
+}
+
+<form method="post">
+    <div class="form-group">
+        <label class="col-sm-3 col-form-label">Driver ID</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="DriverId" value="@Model.DriverInfo.driverId" readonly />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-3 col-form-label">Name</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="Name" value="@Model.DriverInfo.Name" readonly />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-3 col-form-label">Licence</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="Licence" value="@Model.DriverInfo.Licence" readonly />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-3 col-form-label">Email</label>
+        <div class="col-sm-6">
+            <input type="email" class="form-control" name="Email" value="@Model.DriverInfo.Email" readonly />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-3 col-form-label">Phone</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="Phone" value="@Model.DriverInfo.Phone" readonly />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-danger">Delete</button>
+        </div>
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/Drivers/Index" role="button">Cancel</a>
+        </div>
+    </div>
+</form>
